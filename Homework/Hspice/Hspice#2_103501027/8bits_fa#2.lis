@@ -1,0 +1,23 @@
+ ****** HSPICE -- C-2009.09 32-BIT (Aug 24 2009) winnt ******                   
+  Copyright (C) 2009 Synopsys, Inc. All Rights Reserved.                        
+  Unpublished-rights reserved under US copyright laws.
+  This program is protected by law and is subject to the 
+  terms and conditions of the license agreement from Synopsys.
+  Use of this program is your acceptance to be bound by the 
+  license agreement. HSPICE is the trademark of Synopsys, Inc.
+  Input File: d:\ncu\class\project-class\homework\hspice\hspice#2_103501027\8bit
+  lic:  
+  lic: FLEXlm: v8.5b 
+  lic: USER:   user                 HOSTNAME: Terence 
+  lic: HOSTID: "7824afb1f483 18cf5e7add6c 1acf5e7add6c" PID:      10212 
+  lic: Using FLEXlm license file: 
+  lic: 27000@elena 
+  lic: Checkout 1 hspice 
+  lic: License/Maintenance for hspice will expire on 31-dec-2020/2007.9 
+  lic: NODE LOCKED license on hostid "7824afb1f483 18cf5e7add6c 1acf5e7add6c" 
+  lic:   
+ Init: read install configuration file: C:\synopsys\Hspice_C-2009.09\meta.cfg
+ **error** (d:\ncu\class\project-class\homework\hspice\hspice#2_103501027\8bits_fa#2.sp:68) unable to open file "D:\Hspice\cic018.l" .Either file doesn't exists or path is wrong. Please enter the correct file location. 
+
+               ***** job aborted
+  lic: Release hspice token(s) 

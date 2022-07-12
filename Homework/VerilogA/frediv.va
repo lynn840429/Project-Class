@@ -1,0 +1,22 @@
+// VerilogA fredivider
+
+`include "constants.h"
+`include "discipline.h"
+
+module frediv(Fout,Fb);
+input Fout;
+output Fb;
+integer Fb,divider;
+
+analog begin
+	if(divider == 15)
+		divider = 0;
+	else
+		divider = divider + 1;
+		
+	if((divider == 15)||(divider == 14)||(divider == 13)||(divider == 12)||(divider == 11)||(divider == 10)||(divider == 9)||(divider == 8))
+		Fb = 1;
+	else
+		Fb = 0;
+end
+endmodule

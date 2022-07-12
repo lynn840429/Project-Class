@@ -1,0 +1,13 @@
+***** HSPICE -- C-2009.09 32-BIT (Aug 24 2009) winnt ******
+ Input File: d:\ncu\class\project-class\homework\hspice\hspice#2_103501027\8bits
+ lic:
+ lic: FLEXlm: v8.5b
+ lic: USER:   user                 HOSTNAME: Terence
+ lic: HOSTID: "7824afb1f483 18cf5e7add6c 1acf5e7add6c" PID:      10212
+ lic: Using FLEXlm license file:
+ lic: 27000@elena
+ lic: Checkout 1 hspice
+ lic: License/Maintenance for hspice will expire on 31-dec-2020/2007.9
+ lic: NODE LOCKED license on hostid "7824afb1f483 18cf5e7add6c 1acf5e7add6c"
+ lic:
+ lic: Release hspice token(s)
